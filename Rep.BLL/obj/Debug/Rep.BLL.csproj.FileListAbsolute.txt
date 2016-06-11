@@ -1,0 +1,9 @@
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\bin\Debug\Rep.BLL.dll
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\bin\Debug\Rep.BLL.pdb
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\obj\Debug\Rep.BLL.dll
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\obj\Debug\Rep.BLL.pdb
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\obj\Debug\Rep.BLL.csprojResolveAssemblyReference.cache
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\bin\Debug\Rep.DAL.dll
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\bin\Debug\Rep.Model.dll
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\bin\Debug\Rep.DAL.pdb
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.BLL\bin\Debug\Rep.Model.pdb

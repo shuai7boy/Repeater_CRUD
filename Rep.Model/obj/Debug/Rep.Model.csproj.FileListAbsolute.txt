@@ -1,0 +1,4 @@
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.Model\bin\Debug\Rep.Model.dll
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.Model\bin\Debug\Rep.Model.pdb
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.Model\obj\Debug\Rep.Model.dll
+G:\代码存放\ASP.NET代码存放\Repeater实现增删改查\Rep.Model\obj\Debug\Rep.Model.pdb
